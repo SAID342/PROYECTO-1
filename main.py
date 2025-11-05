@@ -4,3 +4,4 @@ def saludo (nombre: str ) -> str:
 if __name__ == "__main__":
     nombre =input("¿tu nombre?")
     print(saludo(nombre))
+    print(saludo(nombre))
